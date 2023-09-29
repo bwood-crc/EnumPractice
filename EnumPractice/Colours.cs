@@ -12,6 +12,7 @@ namespace EnumPractice
         Blue, 
         Green, 
         BlueGreen, 
-        GreenYellow
+        GreenYellow,
+        Grey
     }
 }
