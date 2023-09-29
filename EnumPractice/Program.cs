@@ -12,7 +12,7 @@ namespace EnumPractice
         {
             MyFile file1 = new MyFile("picture.txt",
                 @"C:\users\bwood\",
-                Rights.READABLE | Rights.WRITABLE,
+                Rights.READABLE,
                 null);
 
             // Is file1 readable?
